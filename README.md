@@ -16,7 +16,7 @@ Espero podamos conocernos y colaborar en algun proyecto.
 
 ## 🚀 Proyectos Destacados (Casos de Estudio)
 
-🌐 **[Mi Portafolio Web Integrado](https://kirassound.github.io)** *(Da clic aquí para ver mi sitio web oficial en vivo)*
+🌐 **[Mi Portafolio Web ](https://kirassound.github.io)** 
 
 
 ---
