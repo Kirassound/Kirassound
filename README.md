@@ -22,6 +22,6 @@ Espero podamos conocernos y colaborar en algun proyecto.
 ---
 
 ## 📈 Conéctate Conmigo
-* **Portafolio Web:** [kirassound.github.io](https://kirassound.github.io)
+* **Email:** metal4512@gmail.com
 * **LinkedIn:** www.linkedin.com/in/gary-avila-3ba741252
 * **Instagram:** https://www.instagram.com/kira.ssound.63/
