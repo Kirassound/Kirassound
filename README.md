@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gary Ávila 👋
+# ¡Hola! Soy Gary Avila 👋
 
 Especialista en **Infraestructura de Redes y Ciberseguridad**. Me apasiona el diseño de arquitecturas seguras, el análisis perimetral mediante NIDS y la auditoría defensiva en entornos empresariales.
 
