@@ -2,6 +2,8 @@
 
 Futuro Especialista en **Infraestructura de Redes y Ciberseguridad**, **Diseñador Grafico** y **Freelancer** Aun me encuentro en formacion en todas estas materias, pero pronto sabran de mi. Este pequeño espacio que tengo en GitHub es mi pequeña "mesa de trabajo" para mostrarle al mundo lo que soy capaz de hacer.
 
+Espero podamos conocernos y colaborar en algun proyecto. 
+
 ---
 
 ## 🛠️ Mi Stack Tecnológico
