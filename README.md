@@ -1,6 +1,6 @@
 #                                                                       ¡Hola! Soy Gary Avila 
 
-Futuro Especialista en **Infraestructura de Redes y Ciberseguridad**, **Diseñador Grafico** y **Freelancer** Aun me encuentro en formacion en todas estas materias, pero pronto sabran de mi. Este pequeño espacio que tengo en GitHub espero sea mi pequeña "mesa de trabajo" para mostrarle al mundo lo que soy capaz de hacer.
+Futuro Especialista en **Infraestructura de Redes y Ciberseguridad**, **Diseñador Grafico** y **Freelancer** Aun me encuentro en formacion en todas estas materias, pero pronto sabran de mi. Este pequeño espacio que tengo en GitHub es mi pequeña "mesa de trabajo" para mostrarle al mundo lo que soy capaz de hacer.
 
 ---
 
